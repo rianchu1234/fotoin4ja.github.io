@@ -5,6 +5,7 @@ body {
   background: #fafafa;
 }
 
+/* HEADER */
 header {
   text-align: center;
   padding: 50px 20px;
@@ -20,6 +21,7 @@ header a {
   font-weight: bold;
 }
 
+/* GALLERY */
 .gallery {
   padding: 30px 20px;
   text-align: center;
@@ -36,17 +38,7 @@ header a {
   border-radius: 8px;
 }
 
-.about {
-  padding: 20px;
-  margin: 0 15px;
-  border-top: 1px solid #ddd;
-}
-
-footer {
-  text-align: center;
-  padding: 15px;
-  background: #222;
-  color: #fff;
+/* PRICING */
 .pricing {
   padding: 60px 20px;
   text-align: center;
@@ -87,4 +79,17 @@ footer {
   border: 2px solid #f5c400;
 }
 
+/* ABOUT */
+.about {
+  padding: 20px;
+  margin: 0 15px;
+  border-top: 1px solid #ddd;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #222;
+  color: #fff;
 }
